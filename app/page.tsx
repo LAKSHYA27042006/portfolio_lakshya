@@ -551,7 +551,7 @@ const projects = [
                                   variant="outline"
                                   size="sm"
                                   className="border-orange-600 text-orange-400 hover:bg-orange-700 bg-transparent text-xs"
-                                  onClick={() => window.open(cert.verify, "_blank")}
+                                  onClick={() => cert.verify && window.open(cert.verify, "_blank")}
                                 >
                                   <ExternalLink className="h-3 w-3 mr-1" />
                                   Verify Online
