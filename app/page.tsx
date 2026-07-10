@@ -374,18 +374,18 @@ const projects = [
               Lakshya Sampath Kumar
             </h1>
             <h2
-              className="text-2xl sm:text-4xl lg:text-5xl font-bold text-slate-400 mb-6 animate-fade-in-up break-words leading-tight"
+              className="text-lg sm:text-2xl lg:text-3xl font-semibold text-orange-400 mb-6 animate-fade-in-up break-words leading-tight"
               style={{ animationDelay: "0.2s" }}
             >
-              I build scalable solutions.
+              AI/ML Engineer | Generative AI Enthusiast | Full-Stack Developer
             </h2>
             <p
               className="text-lg sm:text-xl text-slate-400 max-w-3xl mb-8 leading-relaxed animate-fade-in-up"
               style={{ animationDelay: "0.3s" }}
             >
-              Passionate about creating innovative digital experiences that solve real-world problems. Second year
-              Computer Science with Artificial Intelligence student with expertise in full-stack development and AI/ML.
-              Let's build the future together, one line of code at a time.
+              Building intelligent systems that transform ideas into impactful solutions. Third-year Computer Science
+              (AI &amp; ML) student at VIT Vellore with internship experience at Mindsprint (Wipro Group Company) and
+              1Stop.ai. Passionate about Generative AI, Machine Learning, NLP, and scalable AI-powered applications.
             </p>
 
             <div className="flex flex-wrap gap-3 mb-12 animate-fade-in-up" style={{ animationDelay: "0.4s" }}>
